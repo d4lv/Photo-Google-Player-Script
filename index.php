@@ -17,6 +17,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="robots" content="noindex">
+  <meta name="referrer" content="no-referrer" />
 	<title>Get link Google Photos</title>
 </head>
 <body>
